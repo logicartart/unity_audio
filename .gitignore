@@ -1,0 +1,20 @@
+# Unity 自动生成（永不提交）
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+
+# 构建输出
+/[Bb]uild/
+/[Bb]uilds/
+
+# 其他
+*.log
+*.blend1
+.DS_Store
+.vscode
+Assembly-Csharp*
+*.slnx
+Data
